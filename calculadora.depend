@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668454385 source:c:\users\guilh\onedrive\Área de trabalho\calc_sem_comentarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
